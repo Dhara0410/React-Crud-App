@@ -1,0 +1,11 @@
+@media (max-width:592px){
+    .toggelname{
+       font-size: 5px;
+    }
+}
+@media (max-width:400px){
+    .nav-container{
+        display: flex;
+        flex-direction: row;
+    }
+}
